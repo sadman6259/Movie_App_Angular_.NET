@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{409F1931-FDB5-4EA5-814C-077C27FBD3F1}|MovieAPI_Test\\MovieAPI_Test.csproj|c:\\users\\shafiqul\\source\\repos\\movieapp\\movie_api\\movieapi_test\\unittestmovieapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409F1931-FDB5-4EA5-814C-077C27FBD3F1}|MovieAPI_Test\\MovieAPI_Test.csproj|solutionrelative:movieapi_test\\unittestmovieapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E9306A-B5E2-4C2F-B91D-E9B77255A461}|Movie_API\\Movie_API.csproj|c:\\users\\shafiqul\\source\\repos\\movieapp\\movie_api\\movie_api\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E9306A-B5E2-4C2F-B91D-E9B77255A461}|Movie_API\\Movie_API.csproj|solutionrelative:movie_api\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E9306A-B5E2-4C2F-B91D-E9B77255A461}|Movie_API\\Movie_API.csproj|c:\\users\\shafiqul\\source\\repos\\movieapp\\movie_api\\movie_api\\services\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E9306A-B5E2-4C2F-B91D-E9B77255A461}|Movie_API\\Movie_API.csproj|solutionrelative:movie_api\\services\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E9306A-B5E2-4C2F-B91D-E9B77255A461}|Movie_API\\Movie_API.csproj|c:\\users\\shafiqul\\source\\repos\\movieapp\\movie_api\\movie_api\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E9306A-B5E2-4C2F-B91D-E9B77255A461}|Movie_API\\Movie_API.csproj|solutionrelative:movie_api\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E9306A-B5E2-4C2F-B91D-E9B77255A461}|Movie_API\\Movie_API.csproj|c:\\users\\shafiqul\\source\\repos\\movieapp\\movie_api\\movie_api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E9306A-B5E2-4C2F-B91D-E9B77255A461}|Movie_API\\Movie_API.csproj|solutionrelative:movie_api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E9306A-B5E2-4C2F-B91D-E9B77255A461}|Movie_API\\Movie_API.csproj|c:\\users\\shafiqul\\source\\repos\\movieapp\\movie_api\\movie_api\\models\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E9306A-B5E2-4C2F-B91D-E9B77255A461}|Movie_API\\Movie_API.csproj|solutionrelative:movie_api\\models\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E9306A-B5E2-4C2F-B91D-E9B77255A461}|Movie_API\\Movie_API.csproj|c:\\users\\shafiqul\\source\\repos\\movieapp\\movie_api\\movie_api\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E9306A-B5E2-4C2F-B91D-E9B77255A461}|Movie_API\\Movie_API.csproj|solutionrelative:movie_api\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E9306A-B5E2-4C2F-B91D-E9B77255A461}|Movie_API\\Movie_API.csproj|c:\\users\\shafiqul\\source\\repos\\movieapp\\movie_api\\movie_api\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E9306A-B5E2-4C2F-B91D-E9B77255A461}|Movie_API\\Movie_API.csproj|solutionrelative:movie_api\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E9306A-B5E2-4C2F-B91D-E9B77255A461}|Movie_API\\Movie_API.csproj|c:\\users\\shafiqul\\source\\repos\\movieapp\\movie_api\\movie_api\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E9306A-B5E2-4C2F-B91D-E9B77255A461}|Movie_API\\Movie_API.csproj|solutionrelative:movie_api\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E9306A-B5E2-4C2F-B91D-E9B77255A461}|Movie_API\\Movie_API.csproj|c:\\users\\shafiqul\\source\\repos\\movieapp\\movie_api\\movie_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3E9306A-B5E2-4C2F-B91D-E9B77255A461}|Movie_API\\Movie_API.csproj|solutionrelative:movie_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E9306A-B5E2-4C2F-B91D-E9B77255A461}|Movie_API\\Movie_API.csproj|c:\\users\\shafiqul\\source\\repos\\movieapp\\movie_api\\movie_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E9306A-B5E2-4C2F-B91D-E9B77255A461}|Movie_API\\Movie_API.csproj|solutionrelative:movie_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiKeyMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\Movie_API\\Middleware\\ApiKeyMiddleware.cs",
+              "RelativeDocumentMoniker": "Movie_API\\Middleware\\ApiKeyMiddleware.cs",
+              "ToolTip": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\Movie_API\\Middleware\\ApiKeyMiddleware.cs",
+              "RelativeToolTip": "Movie_API\\Middleware\\ApiKeyMiddleware.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:21:41.342Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\Movie_API\\Repositories\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Movie_API\\Repositories\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\Movie_API\\Repositories\\MovieRepository.cs",
+              "RelativeToolTip": "Movie_API\\Repositories\\MovieRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:54:55.212Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTestMovieAPI.cs",
+              "DocumentMoniker": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\MovieAPI_Test\\UnitTestMovieAPI.cs",
+              "RelativeDocumentMoniker": "MovieAPI_Test\\UnitTestMovieAPI.cs",
+              "ToolTip": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\MovieAPI_Test\\UnitTestMovieAPI.cs",
+              "RelativeToolTip": "MovieAPI_Test\\UnitTestMovieAPI.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:43:13.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\Movie_API\\Models\\MovieDbContext.cs",
+              "RelativeDocumentMoniker": "Movie_API\\Models\\MovieDbContext.cs",
+              "ToolTip": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\Movie_API\\Models\\MovieDbContext.cs",
+              "RelativeToolTip": "Movie_API\\Models\\MovieDbContext.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:04:09.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\Movie_API\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Movie_API\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\Movie_API\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Movie_API\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:51:00.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\Movie_API\\Services\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "Movie_API\\Services\\EncryptionHelper.cs",
+              "ToolTip": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\Movie_API\\Services\\EncryptionHelper.cs",
+              "RelativeToolTip": "Movie_API\\Services\\EncryptionHelper.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:15:17.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\Movie_API\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "Movie_API\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\Movie_API\\Services\\MovieService.cs",
+              "RelativeToolTip": "Movie_API\\Services\\MovieService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:52:50.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\Movie_API\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Movie_API\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\Movie_API\\Models\\Movie.cs",
+              "RelativeToolTip": "Movie_API\\Models\\Movie.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:25:16.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\Movie_API\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "Movie_API\\Interfaces\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\Movie_API\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "Movie_API\\Interfaces\\IMovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:53:49.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\Movie_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Movie_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\Movie_API\\appsettings.json",
+              "RelativeToolTip": "Movie_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T15:03:51.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\Movie_API\\Program.cs",
+              "RelativeDocumentMoniker": "Movie_API\\Program.cs",
+              "ToolTip": "C:\\Users\\shafiqul\\source\\repos\\MovieApp\\Movie_API\\Movie_API\\Program.cs",
+              "RelativeToolTip": "Movie_API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:23:21.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+
+    
+    <br/>
+    <br/>
+    <div>
+        <div class="emp_header">
+            <h2 class=""><span class="manage_emp">Search Movie</span></h2>
+
+           
+        </div>
+
+       
+        <div class=" table--no-card m-b-40">
+          
+            <div class="au-card-inner">
+
+                <input #searchBar type="text" value="" class="searchBar" />
+                <button (click)="getMovie(searchBar.value)" formtarget="_blank" class="srchBtn btn btn-primary">Search</button>
+
+
+                <div class="table-responsive">
+                    <table class="table table-borderless table-striped table-earning">
+                        <thead>
+                            <tr>
+                                <th>Title</th>
+                                <th>Release Year</th>
+                                <th>Image</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+        <tr *ngFor="let e of movie | paginate: { itemsPerPage: 2, currentPage: p }">
+        <td >{{e.movieTitle}}</td>  
+        <td >{{e.releaseYear}}</td>  
+        <td > <img class="imagediv" [src]=e.postarImage/> </td>
+        
+        </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <br/>
+                <ul class="pagination">  
+                    <pagination-controls (pageChange)="p = $event"></pagination-controls>  
+                    </ul>
+            </div>
+        </div>
+    </div>
